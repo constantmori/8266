@@ -2,8 +2,8 @@
 #include <ESP8266HTTPClient.h>  // https://goo.gl/hvc4L8
  
 // WiFi information, Connect to HotSpot
-const char ssid[] = "Moric";
-const char password[] = "pmwtf5vrju7et";
+const char ssid[] = "ssid";
+const char password[] = "password";
 
 // Onboard 8266 LED pin
 const int LED_PIN = 5;
